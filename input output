@@ -1,8 +1,0 @@
-#### tulis code disini
-##aritmatika hanya bisa pakai int(4) dan float(4.2)
-
-angka = int(input('masukkan angka : '))
-
-print("angka yang dimasukkan : " + str(angka))
-print("angka yang dimasukkan : ",angka)
-##perbedaan pakai danda + dane (,)
